@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/newsletter-signup-project-QfRvbxXPTB)
+- Live Site URL: [Add live site URL here](https://clotho-ex.github.io/newsletter-sign-up-project/)
 
 ## My process
 
@@ -50,7 +50,7 @@ Users should be able to:
 
 ### What I learned
 
-Learned alot about form validation using JavaScript. Got help from other developers on the internet, helped me to learn as I implemented the things i saw to my code and see how it works.
+Learned a lot about form validation using JavaScript. Got help from other developers on the internet, which helped me to learn as I implemented the things I saw in my code and see how it works.
 
 
 ## Author
