@@ -207,6 +207,7 @@ input.error {
     display: grid;
     place-items: center;
     padding: 16px;
+    height: auto;
   }
 
   .text {
@@ -223,6 +224,7 @@ input.error {
     border-radius: 1rem;
     width: 928px;
     padding: 16px;
+    margin-top: 120px;
   }
 
   .mobile-image {
@@ -261,6 +263,8 @@ input.error {
   }
 
   #success {
+    opacity: 0;
+    visibility: hidden;
     display: grid;
     place-items: center;
     padding: 16px;
@@ -269,5 +273,10 @@ input.error {
     border-radius: 1rem;
     width: 504px;
     height: auto;
+  }
+
+  #success.show {
+    opacity: 1;
+    visibility: visible;
   }
 }
