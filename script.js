@@ -13,6 +13,7 @@ const updateSuccessMessage = (email) => {
 const switchPages = () => {
   signUp.classList.toggle("hidden");
   success.classList.toggle("hidden");
+  success.classList.add("show");
 };
 
 function isValid(str) {
