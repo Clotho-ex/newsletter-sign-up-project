@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/newsletter-signup-project-QfRvbxXPTB)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/social-links-profile-NAWzHFQhfs)
 - Live: [Live Site](https://clotho-ex.github.io/social-links-profile-main/)
 
 ## My process
